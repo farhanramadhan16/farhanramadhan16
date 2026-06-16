@@ -1,13 +1,14 @@
-#### **Hello, I'm Farhan Ramadhan!** 👋
+# **Hello, I'm Farhan Ramadhan!** 👋
 
 ---
-###### 🌟 Data Scientist | AI Engineer | Tech Enthusiast
+### 🌟 Data Scientist | AI Engineer | Tech Enthusiast
 
 ###### I'm Farhan, an informatics engineering student passionate about turning data into meaningful insights. I specialize in data science, machine learning, and cloud computing. Excited to explore new technologies and leverage them to create impactful solutions!
 
 ---
 
 💻 About Me
+
 🔍 Currently exploring Machine Learning, Cloud Computing, and DevOps.
 🚀 Working on ML model deployments, AI-driven solutions, and automation.
 📊 Passionate about analyzing data and building AI-powered applications.
