@@ -9,7 +9,7 @@
 
 💻 About Me
 
-- 🔍 Currently exploring Machine Learning, Cloud Computing, and DevOps.
+- 🔍 Currently exploring Machine Learning, Data Analytics, and Cloud Computing.
 - 🚀 Working on ML model deployments, AI-driven solutions, and automation.
 - 📊 Passionate about analyzing data and building AI-powered applications.
 - 🎯 Seeking new opportunities to collaborate on innovative projects.
