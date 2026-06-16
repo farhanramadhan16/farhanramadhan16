@@ -93,7 +93,3 @@ Let's connect!
 <img src="https://raw.githubusercontent.com/farhanramadhan16/farhanramadhan16/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/farhanramadhan16/farhanramadhan16/snake-output/snake.svg" alt="Snake animation" />
-
-###
