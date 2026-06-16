@@ -17,6 +17,7 @@
 ---
 
 🛠 Tech Stack
+
 Programming Languages: Python, SQL, PHP, JavaScript
 
 Data Tools: BigQuery, Power BI, Tableau, Looker.
