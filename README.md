@@ -49,6 +49,7 @@
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+
 - Others:
 
 <p align ="left">
@@ -62,10 +63,6 @@
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
-
----
-
-Github Statistic
 
 ---
 
@@ -90,5 +87,3 @@ Let's connect!
 </a>
 
 </p>
-
-🕹️🛠️💻🎯🔔📖📫🌟
