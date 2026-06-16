@@ -1,16 +1,39 @@
-## Hi there 👋
+#### **Hello, I'm Farhan Ramadhan!** 👋
 
-<!--
-**farhanramadhan16/farhanramadhan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+###### 🌟 Data Scientist | AI Engineer | Tech Enthusiast
 
-Here are some ideas to get you started:
+###### I'm Farhan, an informatics engineering student passionate about turning data into meaningful insights. I specialize in data science, machine learning, and cloud computing. Excited to explore new technologies and leverage them to create impactful solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 About Me
+🔍 Currently exploring Machine Learning, Cloud Computing, and DevOps.
+🚀 Working on ML model deployments, AI-driven solutions, and automation.
+📊 Passionate about analyzing data and building AI-powered applications.
+🎯 Seeking new opportunities to collaborate on innovative projects.
+
+---
+
+🛠 Tech Stack
+Programming Languages: Python, SQL, PHP, JavaScript
+
+Data Tools: BigQuery, Power BI, Tableau, Looker.
+
+Cloud Platforms: GCP, AWS, Oracle Cloud
+
+Frameworks & Libraries: TensorFlow, PySpark, PyTorch, Scikit-learn, Flask, FastAPI
+
+Others: Git, Docker, Kubernetes, Jupyter Notebooks, Databricks, CI/CD (GitHub Actions, Jenkins, Cloud Build)
+
+---
+
+Github Statistic
+
+---
+
+Let's connect!
+
+
+
+🕹️🛠️💻🎯🔔📖📫🌟
