@@ -16,11 +16,7 @@
 
 ---
 
-🛠 Tech Stack
-
-- Programming Languages:
-
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 -   Programming Languages
 
