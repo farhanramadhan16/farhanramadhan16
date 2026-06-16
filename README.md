@@ -3,7 +3,7 @@
 ---
 ### 🌟 Data Scientist | AI Engineer | Tech Enthusiast
 
-###### I'm Farhan, an informatics engineering student passionate about turning data into meaningful insights. I specialize in data science, and machine learning Excited to explore new technologies and leverage them to create impactful solutions!
+###### I'm Farhan, an informatics engineering student passionate about turning data into meaningful insights. I specialize in data science, machine learning and Business Analysis Excited to explore new technologies and leverage them to create impactful solutions!
 
 ---
 
@@ -71,6 +71,24 @@ Github Statistic
 
 Let's connect!
 
+<p align="left">
 
+<a href="https://www.instagram.com/farhan.dhann/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/farhanramadhan16/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/6281385179681" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="mailto:farhanramadan082@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 🕹️🛠️💻🎯🔔📖📫🌟
